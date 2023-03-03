@@ -1,5 +1,6 @@
 ### Hi there 👋
-### I am testing GitHub and learning new things everyday!
+## My name is Luciano, and I aim to improve myself.
+## I am editing this file locally and using git to commit and push changes. This is fun!
 <!--
 **LuuSamp/LuuSamp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
